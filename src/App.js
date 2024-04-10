@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import AllIconsComponent from './MainComponent'; 
+import AllIconsComponent from './components/MainComponent';
 
 function App() {
   return (

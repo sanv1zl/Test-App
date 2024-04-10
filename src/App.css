@@ -10,3 +10,6 @@
   height: 100vh; /* Make the component take the full height of the viewport */
 }
 
+button {
+  margin: 5px;
+}
